@@ -1,22 +1,19 @@
-
 * {
   background-color: rgb(253, 251, 251);
 }
 
 #cabecalho {
-  margin-top: 0px;
+  position: fixed;
 }
 
 #titulo {}
 
-#minha_foto {
+#minha_foto{
   border-radius: 50%;
   width: 200px;
-  top: 200px;
+  margin-top: 90px;
 }
 
-#licoes_aprendidas {
-}
+#licoes_aprendidas{}
 
-#rodape {
-}
+#rodape{}
