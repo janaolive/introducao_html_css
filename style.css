@@ -1,21 +1,21 @@
-*{
-  background-color: rgb(253,251,251);
+* {
+  background-color: rgb(253, 251, 251);
 }
 
-#cabecalho{
-  top: 0px;
+#cabecalho {
+  margin-top: 0px;
 }
 
-#titulo{
-}
+#titulo {}
 
-#minha_foto{
+#minha_foto {
   border-radius: 50%;
   width: 200px;
+  top: 200px;
 }
 
-#licoes_aprendidas{
+#licoes_aprendidas {
 }
 
-#rodape{
+#rodape {
 }
