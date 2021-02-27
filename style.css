@@ -4,10 +4,11 @@
 }
 
 body {
-  font-family: 'Handlee', lato, lobster, sans-serif;
+  font-family: 'Handlee', sans-serif;
   font-size: 18px;
   text-align: justify;
-	line-height: 35px;
+  line-height: 35px;
+  color: darkblue;
 }  
 
 h3 {
@@ -44,27 +45,27 @@ h3 {
 }
 
 #my_learning {
-  font-weight: bold;
-	text-align: left;
+  font-weight: 600;
+  text-align: left;
 }
 
 #interesting_passage {
-  font-weight: bold;
-	text-align: left;
+  font-weight: 600;
+  text-align: left;
 }
 
 #recommended_pages {
-  font-weight: bold;
-	text-align: left;
+  font-weight: 600;
+  text-align: left;
 }
 
 .button {
- 	background-color: fuchsia;
-	padding: 15px 30px;
-	border-radius: 4px;
-	line-height: 20px;
-	font-weight: bold;
-	margin: auto;
+  background-color: fuchsia;
+  padding: 15px 30px;
+  border-radius: 4px;
+  line-height: 20px;
+  font-weight: bold;
+  margin: auto;
   margin-left: 80px;
   text-decoration: none;
   list-style: none;
@@ -86,7 +87,7 @@ h3 {
 .rodape {
   margin-top: 50px;
   margin-right: 100px;
-  margin: auto;
+  width: 100%;
 }
 
 #rodape {
