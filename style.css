@@ -9,7 +9,7 @@ body {
   text-align: justify;
   line-height: 35px;
   color: darkblue;
-}  
+}
 
 h3 {
   text-align: center;
@@ -64,7 +64,7 @@ h3 {
   padding: 15px 30px;
   border-radius: 4px;
   line-height: 20px;
-  font-weight: bold;
+  font-weight: 600;
   margin: auto;
   margin-left: 80px;
   text-decoration: none;
