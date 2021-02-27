@@ -1,14 +1,96 @@
 * {
   background-color: rgb(253, 251, 251);
+  margin: 5px;
+}
+
+body {
+  font-family: 'Handlee', lato, lobster, sans-serif;
+  font-size: 18px;
+  text-align: justify;
+	line-height: 35px;
+}  
+
+h3 {
+  text-align: center;
 }
 
 #cabecalho {
   position: fixed;
   top: 0px;
+  background-color: aqua;
+  padding: 15px 30px;
+  width: 100%;
+  text-align: center;
 }
 
 #minha_foto {
   border-radius: 50%;
   width: 200px;
   margin-top: 90px;
+}
+
+#table {
+  border-style: dashed;
+  border-width: 1px;
+  float: right;
+  margin-left: 50px;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.styling {
+  display: inline-block;
+  margin-left: 280px;
+}
+
+#my_learning {
+  font-weight: bold;
+	text-align: left;
+}
+
+#interesting_passage {
+  font-weight: bold;
+	text-align: left;
+}
+
+#recommended_pages {
+  font-weight: bold;
+	text-align: left;
+}
+
+.button {
+ 	background-color: fuchsia;
+	padding: 15px 30px;
+	border-radius: 4px;
+	line-height: 20px;
+	font-weight: bold;
+	margin: auto;
+  margin-left: 80px;
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  margin-left: 250px;
+  text-align: center;
+}
+
+.lado-direito {
+  display: inline-block;
+  margin-left: 250px;
+  text-align: center;
+}
+
+.rodape {
+  margin-top: 50px;
+  margin-right: 100px;
+  margin: auto;
+}
+
+#rodape {
+  padding: 10px 20px;
+  background-color: aqua;
+  text-align: center;
 }
